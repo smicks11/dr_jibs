@@ -1,0 +1,383 @@
+@import url(fonts/fonts-css.css);
+
+body {
+    background: #FFF;
+    font-family: 'HelveticaNeue';
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    line-height: normal;
+    font-size: 17px;
+    color: #092545;
+    transition: background 0.5s ease;
+}
+
+
+p{
+    letter-spacing: 0.6px;
+    line-height: 28px;
+}
+
+p, h1, h2, h3, h4, h5, h6, ul, li {
+    margin: 0px;
+    padding: 0px;
+    font-weight: normal;
+}
+
+ul,li {
+    list-style: none;
+}
+
+/*H-GROUPS*/
+/*h1,h2,h3,h4,h5,h6{*/
+    /*transition: all 0.64s cubic-bezier(0.62, 0.02, 0.34, 1) 0.23s;*/
+    /*-webkit-transition: all 0.64s cubic-bezier(0.62, 0.02, 0.34, 1) 0.23s;*/
+/*}*/
+
+h2,h3 span,h4,h6{
+    font-family: 'Stolzl Medium';
+}
+
+
+h3,h5{
+    font-family: 'Stolzl';
+}
+
+h1 {
+    letter-spacing: -3px;
+    line-height: 72px;
+    font-size: 100px;
+    font-family:'Stolzl Bold';
+    display: inline-block;
+    background-image: -webkit-linear-gradient(left, #f15b74, #ff6021); /* For Chrome and Safari */
+    background-image:    -moz-linear-gradient(left, #f15b74, #ff6021); /* For old Fx (3.6 to 15) */
+    background-image:     -ms-linear-gradient(left, #f15b74, #ff6021); /* For pre-releases of IE 10*/
+    background-image:      -o-linear-gradient(left, #f15b74, #ff6021); /* For old Opera (11.1 to 12.0) */
+    background-image:         linear-gradient(to bottom, #f15b74, #ff6021); /* Standard syntax; must be last */
+    color:transparent;
+    -webkit-background-clip: text;
+    background-clip: text;
+}
+
+h2 {
+    font-size: 42px;
+    letter-spacing: -0.3px;
+}
+
+h3 {
+    font-size: 33px;
+    letter-spacing: -1px;
+}
+
+h4 {
+    font-size: 19px;
+    letter-spacing: -0.5px;
+    line-height: 28px;
+}
+
+h5 {
+    font-size: 15px;
+}
+
+h6 {
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 1.2px;
+    line-height: 20px;
+}
+
+/*H-GROUPS*/
+
+a {
+    color: #2d6ae3;
+}
+
+a:hover, a:focus {
+    text-decoration: none;
+    outline: none;
+    color: #f55c59;
+}
+
+a.underline{
+    position: relative;
+    display: inline-block;
+}
+
+a.underline::after {
+    width: 100%;
+    height: 2px;
+    background: #2d6ae3;
+    content: "";
+    left: 0;
+    position: absolute;
+    bottom: -1px;
+    transition: all 0.3s ease;
+}
+
+a.underline:hover::after{
+    background-color:#f55c59;
+    transition: all 0.3s ease;
+}
+
+.btn {
+    background: #2d6ae3 none repeat scroll 0 0;
+    color: #fff;
+    display: inline-block;
+    font-size: 16px;
+    height: 58px;
+    line-height: 58px;
+    padding: 0px 65px 0px 25px;
+    text-align: center;
+    text-transform: none;
+    -webkit-border-radius:0px;
+    -moz-border-radius:0px;
+    border-radius:0px;
+    transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -webkit-transition: all 0.3s ease;
+    font-family:'Stolzl Book';
+}
+
+.btn:focus{
+    color: #FFF;
+}
+
+.btn:hover {
+    transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -webkit-transition: all 0.3s ease;
+}
+
+.main-heading.width-small{
+    width: 35%;
+}
+
+.main-heading{
+    margin-bottom: 80px;
+}
+
+.main-heading h1{
+    margin-bottom: 50px;
+}
+
+li,a,svg{
+    transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -webkit-transition: all 0.5s ease;
+}
+
+input[type="text"], input[type="email"], input[type="password"], select, input[type="date"], textarea {
+    border: none;
+    height: 58px;
+    padding: 10px 22px;
+    width: 100%;
+    color: #2d3964;
+    line-height: 58px;
+    border: 2px solid #FFF;
+    box-shadow: none;
+    outline: none;
+    transition: all 5s ease;
+    -o-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -webkit-transition: all 0.5s ease;
+
+}
+
+textarea {
+    display: block;
+    height: auto;
+    overflow: hidden;
+    line-height: 22px;
+}
+
+select {
+    line-height: 40px;
+}
+
+input[type="text"]:focus, input[type="email"]:focus, input[type="password"]:focus, input[type="date"]:focus, textarea:focus{
+    border-color: #092545;
+}
+
+::-webkit-input-placeholder {
+    color:#2d3964;
+    opacity: 1;
+}
+
+:focus::-webkit-input-placeholder {
+    color: #FFF;
+}
+
+/* Firefox < 19 */
+:-moz-placeholder {
+    color:#2d3964;
+    opacity: 1;
+}
+
+:focus:-moz-placeholder {
+    color: #FFF;
+}
+
+/* Firefox > 19 */
+::-moz-placeholder {
+    color:#2d3964;
+    opacity: 1;
+}
+
+:focus::-moz-placeholder {
+    color: #FFF;
+}
+
+/* Internet Explorer 10 */
+-ms-input-placeholder {
+    color:#2d3964;
+    opacity: 1;
+}
+
+:focus:-ms-input-placeholder {
+    color: #FFF;
+}
+
+.clearfix {
+    clear: both;
+}
+
+address {
+    font-style: normal;
+}
+
+strong {
+    font-weight: normal;
+}
+
+input[type="radio"], input[type="checkbox"] {
+    margin: 0px;
+    vertical-align: middle;
+}
+
+.align-center {
+    text-align: center;
+}
+
+.txtstuff {
+     resize: none; /* remove this if you want the user to be able to resize it in modern browsers */
+     overflow: hidden;
+ }
+
+.hiddendiv {
+    display: none;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    overflow-wrap: break-word; /* future version of deprecated 'word-wrap' */
+}
+
+.InnerDefaultText h6{
+    margin-bottom: 20px;
+}
+
+.InnerDefaultText h3{
+    margin-bottom: 35px;
+}
+
+.InnerDefaultText p{
+    margin-bottom: 35px;
+    line-height: 30px;
+}
+
+.movement li{
+    transition: none;
+}
+
+.overflow-hidden{
+    overflow: hidden !important;
+}
+
+.button-row > div {
+    position: relative;
+    width: 190px;
+    height: 58px;
+    -webkit-perspective: 1000px;
+    -moz-perspective: 1000px;
+    perspective: 1000px;
+}
+
+.button-row > div > a {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    font-family:'Stolzl Book';
+    font-size: 16px;
+    cursor: pointer;
+    -webkit-transform-style: preserve-3d;
+    -moz-transform-style: preserve-3d;
+    -ms-transform-style: preserve-3d;
+    -o-transform-style: preserve-3d;
+    transform-style: preserve-3d;
+    -webkit-transform: translateZ(-25px);
+    -moz-transform: translateZ(-25px);
+    -ms-transform: translateZ(-25px);
+    -o-transform: translateZ(-25px);
+    transform: translateZ(-25px);
+    -webkit-transition: -webkit-transform 0.25s;
+    -moz-transition: -moz-transform 0.25s;
+    transition: transform 0.25s;
+}
+
+.button-row > div > a::before, .button-row > div > a::after {
+    align-items: center;
+    width: 100%;
+    height: 58px;
+    position: absolute;
+    border: 5px solid #2d6ae3;
+    box-sizing: border-box;
+    content: attr(title);
+    display: -webkit-box;
+    display: -moz-box;
+    display: box;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flexbox;
+    padding: 5px 10px 5px 25px;
+}
+
+.button-row > div > a::before {
+    background-color: #2d6ae3;
+    color: #fff;
+    -webkit-transform: rotateY(0deg) translateZ(25px);
+    -moz-transform: rotateY(0deg) translateZ(25px);
+    -ms-transform: rotateY(0deg) translateZ(25px);
+    -o-transform: rotateY(0deg) translateZ(25px);
+    transform: rotateY(0deg) translateZ(25px);
+}
+
+.button-row > div > a::after {
+    background-color: #2d6ae3;
+    color: #FFF;
+    -webkit-transform: rotateX(90deg) translateZ(25px);
+    -moz-transform: rotateX(90deg) translateZ(25px);
+    -ms-transform: rotateX(90deg) translateZ(25px);
+    -o-transform: rotateX(90deg) translateZ(25px);
+    transform: rotateX(90deg) translateZ(25px);
+}
+
+.button-row > div > a:hover {
+    -webkit-transform: translateZ(-25px) rotateX(-90deg);
+    -moz-transform: translateZ(-25px) rotateX(-90deg);
+    -ms-transform: translateZ(-25px) rotateX(-90deg);
+    -o-transform: translateZ(-25px) rotateX(-90deg);
+    transform: translateZ(-25px) rotateX(-90deg);
+}
+
+
+.SecTopBtmSpace{
+    padding: 120px 0px;
+}
+
+.SecTopSapce{
+    padding-top: 120px;
+}
+
+.SecBtmSapce{
+    padding-bottom: 120px;
+}

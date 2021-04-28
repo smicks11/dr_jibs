@@ -1,0 +1,1816 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 350 212">
+    <style type="text/css">
+        .hand1 {
+            fill: #D18B6F;
+        }
+
+        .hand2 {
+            fill: #E19B78;
+        }
+
+        .hand3 {
+            fill: #E5A78F;
+        }
+
+        .hand4 {
+            fill: #B77355;
+        }
+
+        .st4 {
+            clip-path: url(#SVGID_2_);
+            fill: #A5644E;
+        }
+
+        .st5 {
+            clip-path: url(#SVGID_4_);
+            fill: #B77358;
+        }
+
+        .st6 {
+            clip-path: url(#SVGID_6_);
+            fill: #B77358;
+        }
+
+        .st7 {
+            fill: #D88F6F;
+        }
+
+        .st8 {
+            fill: #2D6AE3;
+        }
+
+        .st9 {
+            clip-path: url(#SVGID_8_);
+            fill: #B77358;
+        }
+
+        .st10 {
+            opacity: 0.5;
+            fill: #D18B6F;
+        }
+
+        .st11 {
+            fill: #2061C9;
+        }
+    </style>
+    <g>
+        <path class="hand1"
+              d="M200.4,184.8c0,0,7.3,10,5.3,14s-4.7,8.7-13.3,8.7c-9.2,0-24-11.8-24-11.8l-8-19.6L200.4,184.8z"/>
+        <path class="hand1"
+              d="M143.8,189.2l8.7,21c0,0,9.3,4,16,0c6.7-4,8.7-10.7,8.7-14c0-3.3-4-16.7-4-16.7L143.8,189.2z"/>
+        <path class="hand1" d="M180.9,82.8c0,0,17.2,38.2,3.5,42c0,0-19.3,18-23.7,28.7s-19,9.3-19,9.3l-10-12c0,0-10.7-23.8-13.3-37.3
+c-2.7-13.6,2.7-26.7,2.7-26.7l32.7-28.7l34.7,10.7L180.9,82.8z"/>
+        <path class="hand1"
+              d="M43.3,183.1c0,0-6.7,8.7-16.7,5.3c-10-3.3-14-14.7-12-20c2-5.3,9.8-21.5,9.8-21.5L43.3,183.1z"/>
+        <path class="hand1" d="M168.4,64.2c0,0-32.7,39.3-56.7,42.7c0,0-22.7,27.3-40.7,37.3c0,0-21.5,22.8-28.7,22s-18-34-18-34l74-65.3
+l40-6L168.4,64.2L168.4,64.2z"/>
+        <path class="hand2" d="M265.9,45.9c0,0-87.6-40-105.5-44.4c-13.5-3.3-32.7,14-32.7,14S72.4,58.2,71.1,62.2S0.4,146.9,0.4,146.9
+s12.2,21.8,26.2,12.5c14-9.3,31.2-22.8,39.1-33.9s35-30,35.7-34c0,0,34.3-10.7,42.3-24.7c0,0,20.7,9.1,24.7,6.1
+c0,0,6,32.5,6.7,51.2c0,0-9.1,4.9-21.5,11.7c-4.7,2.6-24.3,8.2-40.1,10.6c-12.2,1.9-12.5,51,0,48.7c17.3-3.1,53.7-6.5,67.4-6.6
+c32.7-0.2,69,6,108-32.5c0,0,21.5-6.7,55.5-14.7c0,0,16-56.8-8-83.3C306.4,53.2,273,49,265.9,45.9z"/>
+        <path class="hand3" d="M19.5,124.6c0,0-2.7,12-5.4,15s-8.2,6.6-13.7,7.3L19.5,124.6z"/>
+        <g>
+            <g>
+                <path class="hand4" d="M159.5,46.9c1.4,11.2,6.1,21.3,9.5,31.9c3.9,12.1,5.2,24.7,4.1,37.4c-0.1,1.6,2.4,1.6,2.5,0
+c1-11.6,0-23.3-3.2-34.6c-3.3-11.7-8.9-22.6-10.5-34.7C161.7,45.3,159.2,45.3,159.5,46.9L159.5,46.9z"/>
+            </g>
+        </g>
+        <g>
+            <defs>
+                <path id="SVGID_1_"
+                      d="M175,122.9c0,0,3.2,0.3-37.5,20.7c-15.4,7.7-14.4-33.1-14.4-33.1S177.1,58.2,175,122.9z"/>
+            </defs>
+            <clipPath id="SVGID_2_">
+                <use xlink:href="#SVGID_1_" style="overflow:visible;"/>
+            </clipPath>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -16.8152 153.3897)" class="st4"
+                     cx="189.6" cy="98.4" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -15.6622 151.0765)" class="st4"
+                     cx="187.2" cy="95.8" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -14.5646 148.8745)" class="st4"
+                     cx="184.9" cy="93.2" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -17.1396 149.0855)" class="st4"
+                     cx="183.9" cy="96.7" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -18.2372 151.2875)" class="st4"
+                     cx="186.2" cy="99.2" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -14.9445 144.6816)" class="st4"
+                     cx="179.3" cy="91.6" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -16.042 146.8836)" class="st4"
+                     cx="181.6" cy="94.2" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -20.8709 151.3681)" class="st4"
+                     cx="185" cy="102.6" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -25.2748 149.1729)" class="st4"
+                     cx="180" cy="107.2" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -30.7763 149.1797)" class="st4"
+                     cx="177.2" cy="114.3" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -29.6787 146.9777)" class="st4"
+                     cx="174.9" cy="111.8" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -32.2538 147.1887)" class="st4"
+                     cx="173.9" cy="115.2" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -34.7695 147.1892)" class="st4"
+                     cx="172.7" cy="118.5" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -33.6719 144.9873)" class="st4"
+                     cx="170.4" cy="116" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -36.247 145.1982)" class="st4"
+                     cx="169.4" cy="119.4" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -39.1735 144.994)" class="st4"
+                     cx="167.6" cy="123.1" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -38.0759 142.7921)" class="st4"
+                     cx="165.3" cy="120.6" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -40.6509 143.0031)" class="st4"
+                     cx="164.3" cy="124" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -43.5774 142.7988)" class="st4"
+                     cx="162.6" cy="127.7" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -42.4798 140.5969)" class="st4"
+                     cx="160.3" cy="125.1" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -45.0549 140.8079)" class="st4"
+                     cx="159.3" cy="128.6" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -47.4183 140.8843)" class="st4"
+                     cx="158.2" cy="131.7" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -46.3207 138.6823)" class="st4"
+                     cx="155.9" cy="129.1" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -48.8958 138.8933)" class="st4"
+                     cx="154.9" cy="132.6" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -51.8222 138.6891)" class="st4"
+                     cx="153.2" cy="136.3" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -50.7246 136.4872)" class="st4"
+                     cx="150.9" cy="133.7" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -53.2997 136.6981)" class="st4"
+                     cx="149.9" cy="137.2" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -56.2261 136.4939)" class="st4"
+                     cx="148.1" cy="140.8" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -55.1286 134.292)" class="st4"
+                     cx="145.8" cy="138.3" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -57.7036 134.503)" class="st4"
+                     cx="144.8" cy="141.8" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -60.2194 134.5035)" class="st4"
+                     cx="143.6" cy="145" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -59.1218 132.3015)" class="st4"
+                     cx="141.3" cy="142.5" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -61.6968 132.5125)" class="st4"
+                     cx="140.2" cy="145.9" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -64.6233 132.3083)" class="st4"
+                     cx="138.5" cy="149.6" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -63.5257 130.1063)" class="st4"
+                     cx="136.2" cy="147.1" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -19.7179 149.0549)" class="st4"
+                     cx="182.6" cy="100" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -18.6203 146.8529)" class="st4"
+                     cx="180.3" cy="97.5" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -21.1953 147.0639)" class="st4"
+                     cx="179.3" cy="100.9" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -22.2929 149.2659)" class="st4"
+                     cx="181.6" cy="103.4" rx="0.4" ry="0.4"/>
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -17.5227 144.651)" class="st4"
+                     cx="178" cy="95" rx="0.6" ry="0.6"/>
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -19.0001 142.66)" class="st4"
+                     cx="174.7" cy="95.9" rx="0.6" ry="0.6"/>
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -20.0977 144.862)" class="st4"
+                     cx="177" cy="98.4" rx="0.4" ry="0.4"/>
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -21.9266 142.4558)" class="st4"
+                     cx="173" cy="99.5" rx="0.6" ry="0.6"/>
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -20.829 140.2538)" class="st4"
+                     cx="170.7" cy="97" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -23.4041 140.4648)" class="st4"
+                     cx="169.7" cy="100.5" rx="0.6" ry="0.6"/>
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -24.5017 142.6668)" class="st4"
+                     cx="172" cy="103" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -24.1218 146.8597)" class="st4"
+                     cx="177.6" cy="104.6" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -23.0242 144.6577)" class="st4"
+                     cx="175.3" cy="102.1" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -25.5993 144.8687)" class="st4"
+                     cx="174.3" cy="105.5" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -26.6968 147.0707)" class="st4"
+                     cx="176.5" cy="108" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -28.5257 144.6645)" class="st4"
+                     cx="172.5" cy="109.2" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -27.4281 142.4626)" class="st4"
+                     cx="170.2" cy="106.6" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -30.0032 142.6736)" class="st4"
+                     cx="169.2" cy="110.1" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -31.1008 144.8755)" class="st4"
+                     cx="171.5" cy="112.6" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -26.3305 140.2606)" class="st4"
+                     cx="167.9" cy="104.1" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -25.2329 138.0586)" class="st4"
+                     cx="165.6" cy="101.6" rx="0.4" ry="0.4"/>
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -27.808 138.2696)" class="st4"
+                     cx="164.6" cy="105" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -28.9056 140.4716)" class="st4"
+                     cx="166.9" cy="107.6" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -24.1353 135.8567)" class="st4"
+                     cx="163.3" cy="99.1" rx="0.6" ry="0.6"/>
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -25.6128 133.8657)" class="st4"
+                     cx="160" cy="100" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -26.7104 136.0677)" class="st4"
+                     cx="162.3" cy="102.5" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -22.3065 138.2629)" class="st4"
+                     cx="167.4" cy="97.9" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -17.9026 140.4581)" class="st4"
+                     cx="172.4" cy="93.3" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -32.5189 142.6741)" class="st4"
+                     cx="168" cy="113.3" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -31.4213 140.4721)" class="st4"
+                     cx="165.7" cy="110.8" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -33.9964 140.6831)" class="st4"
+                     cx="164.6" cy="114.2" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -35.094 142.8851)" class="st4"
+                     cx="166.9" cy="116.8" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -30.3237 138.2701)" class="st4"
+                     cx="163.4" cy="108.3" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -29.2261 136.0682)" class="st4"
+                     cx="161.1" cy="105.8" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -31.8012 136.2792)" class="st4"
+                     cx="160.1" cy="109.2" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -32.8988 138.4811)" class="st4"
+                     cx="162.4" cy="111.7" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -34.7276 136.075)" class="st4"
+                     cx="158.3" cy="112.9" rx="0.6" ry="0.6"/>
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -33.6301 133.873)" class="st4"
+                     cx="156" cy="110.4" rx="0.4" ry="0.4"/>
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -36.2051 134.084)" class="st4"
+                     cx="155" cy="113.8" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -37.3027 136.286)" class="st4"
+                     cx="157.3" cy="116.3" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -36.9228 140.4789)" class="st4"
+                     cx="162.9" cy="117.9" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -35.8252 138.2769)" class="st4"
+                     cx="160.6" cy="115.4" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -38.4003 138.4879)" class="st4"
+                     cx="159.6" cy="118.8" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -39.4979 140.6899)" class="st4"
+                     cx="161.9" cy="121.3" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -41.3268 138.2837)" class="st4"
+                     cx="157.9" cy="122.5" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -40.2292 136.0817)" class="st4"
+                     cx="155.6" cy="120" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -42.8042 136.2927)" class="st4"
+                     cx="154.6" cy="123.4" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -43.9018 138.4947)" class="st4"
+                     cx="156.9" cy="125.9" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -39.1316 133.8798)" class="st4"
+                     cx="153.3" cy="117.5" rx="0.6" ry="0.6"/>
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -38.034 131.6778)" class="st4"
+                     cx="151" cy="114.9" rx="0.4" ry="0.4"/>
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -40.609 131.8888)" class="st4"
+                     cx="150" cy="118.4" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -41.7066 134.0908)" class="st4"
+                     cx="152.3" cy="120.9" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -36.9364 129.4759)" class="st4"
+                     cx="148.7" cy="112.4" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -38.4139 127.4849)" class="st4"
+                     cx="145.4" cy="113.3" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -39.5114 129.6869)" class="st4"
+                     cx="147.7" cy="115.9" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -32.5325 131.671)" class="st4"
+                     cx="153.7" cy="107.8" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -34.0099 129.6801)" class="st4"
+                     cx="150.4" cy="108.8" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -35.1075 131.882)" class="st4"
+                     cx="152.7" cy="111.3" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -28.1285 133.8662)" class="st4"
+                     cx="158.8" cy="103.3" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -29.606 131.8753)" class="st4"
+                     cx="155.5" cy="104.2" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -30.7036 134.0772)" class="st4"
+                     cx="157.8" cy="106.7" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -45.1677 136.3691)" class="st4"
+                     cx="153.5" cy="126.5" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -44.0701 134.1672)" class="st4"
+                     cx="151.2" cy="124" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -46.6452 134.3782)" class="st4"
+                     cx="150.2" cy="127.4" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -47.7427 136.5801)" class="st4"
+                     cx="152.5" cy="129.9" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -42.9725 131.9652)" class="st4"
+                     cx="148.9" cy="121.5" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -41.8749 129.7633)" class="st4"
+                     cx="146.6" cy="118.9" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -44.45 129.9743)" class="st4"
+                     cx="145.6" cy="122.4" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -45.5476 132.1762)" class="st4"
+                     cx="147.9" cy="124.9" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -47.3764 129.77)" class="st4"
+                     cx="143.9" cy="126.1" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -46.2788 127.5681)" class="st4"
+                     cx="141.6" cy="123.5" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -48.8539 127.7791)" class="st4"
+                     cx="140.6" cy="127" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -49.9515 129.981)" class="st4"
+                     cx="142.9" cy="129.5" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -49.5716 134.174)" class="st4"
+                     cx="148.5" cy="131.1" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -48.474 131.972)" class="st4"
+                     cx="146.2" cy="128.6" rx="0.4" ry="0.4"/>
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -51.0491 132.183)" class="st4"
+                     cx="145.1" cy="132" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -52.1467 134.3849)" class="st4"
+                     cx="147.4" cy="134.5" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -53.9755 131.9788)" class="st4"
+                     cx="143.4" cy="135.7" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -52.8779 129.7768)" class="st4"
+                     cx="141.1" cy="133.2" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -55.453 129.9878)" class="st4"
+                     cx="140.1" cy="136.6" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -56.5506 132.1898)" class="st4"
+                     cx="142.4" cy="139.1" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -51.7803 127.5749)" class="st4"
+                     cx="138.8" cy="130.6" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -50.6827 125.3729)" class="st4"
+                     cx="136.5" cy="128.1" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -53.2578 125.5839)" class="st4"
+                     cx="135.5" cy="131.6" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -54.3554 127.7859)" class="st4"
+                     cx="137.8" cy="134.1" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -52.1602 123.3819)" class="st4"
+                     cx="133.2" cy="129" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -45.1812 125.3661)" class="st4"
+                     cx="139.3" cy="121" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -47.7563 125.5771)" class="st4"
+                     cx="138.3" cy="124.5" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -40.7773 127.5613)" class="st4"
+                     cx="144.3" cy="116.4" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -42.2548 125.5703)" class="st4"
+                     cx="141" cy="117.3" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -43.3524 127.7723)" class="st4"
+                     cx="143.3" cy="119.9" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -57.9687 129.9883)" class="st4"
+                     cx="138.9" cy="139.8" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -56.8711 127.7864)" class="st4"
+                     cx="136.6" cy="137.3" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -59.4462 127.9974)" class="st4"
+                     cx="135.5" cy="140.8" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -60.5438 130.1993)" class="st4"
+                     cx="137.8" cy="143.3" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -55.7735 125.5844)" class="st4"
+                     cx="134.3" cy="134.8" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -58.3486 125.7954)" class="st4"
+                     cx="133.3" cy="138.2" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -62.3727 127.7931)" class="st4"
+                     cx="133.8" cy="144.4" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -61.2751 125.5912)" class="st4"
+                     cx="131.5" cy="141.9" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -34.4192 166.2879)" class="st4"
+                     cx="197.5" cy="127.6" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -35.8967 164.2969)" class="st4"
+                     cx="194.2" cy="128.5" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -38.4125 164.2974)" class="st4"
+                     cx="192.9" cy="131.7" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -37.3149 162.0954)" class="st4"
+                     cx="190.6" cy="129.2" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -39.8899 162.3064)" class="st4"
+                     cx="189.6" cy="132.7" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -42.8164 162.1022)" class="st4"
+                     cx="187.9" cy="136.3" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -41.7188 159.9003)" class="st4"
+                     cx="185.6" cy="133.8" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -44.2939 160.1113)" class="st4"
+                     cx="184.6" cy="137.2" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -47.2203 159.907)" class="st4"
+                     cx="182.9" cy="140.9" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -46.1227 157.7051)" class="st4"
+                     cx="180.6" cy="138.4" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -48.6978 157.9161)" class="st4"
+                     cx="179.5" cy="141.8" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -51.0612 157.9925)" class="st4"
+                     cx="178.5" cy="144.9" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -49.9636 155.7905)" class="st4"
+                     cx="176.2" cy="142.4" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -52.5387 156.0015)" class="st4"
+                     cx="175.2" cy="145.8" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -55.4651 155.7973)" class="st4"
+                     cx="173.4" cy="149.5" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -54.3676 153.5953)" class="st4"
+                     cx="171.1" cy="147" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -56.9426 153.8063)" class="st4"
+                     cx="170.1" cy="150.4" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -58.7715 151.4001)" class="st4"
+                     cx="166.1" cy="151.6" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -34.7437 161.9837)" class="st4"
+                     cx="191.8" cy="125.9" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -36.1618 159.7823)" class="st4"
+                     cx="188.2" cy="126.6" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -37.6393 157.7913)" class="st4"
+                     cx="184.9" cy="127.5" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -38.7369 159.9932)" class="st4"
+                     cx="187.2" cy="130" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -38.3706 153.1832)" class="st4"
+                     cx="178.6" cy="126.1" rx="0.6" ry="0.6"/>
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -39.848 151.1922)" class="st4"
+                     cx="175.3" cy="127" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -40.9456 153.3941)" class="st4"
+                     cx="177.6" cy="129.6" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -40.5658 157.5871)" class="st4"
+                     cx="183.2" cy="131.2" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -39.4682 155.3851)" class="st4"
+                     cx="180.9" cy="128.7" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -42.0432 155.5961)" class="st4"
+                     cx="179.9" cy="132.1" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -43.1408 157.7981)" class="st4"
+                     cx="182.2" cy="134.6" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -44.9697 155.3919)" class="st4"
+                     cx="178.2" cy="135.8" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -43.8721 153.1899)" class="st4"
+                     cx="175.9" cy="133.2" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -46.4471 153.4009)" class="st4"
+                     cx="174.8" cy="136.7" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -47.5447 155.6029)" class="st4"
+                     cx="177.1" cy="139.2" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -42.7745 150.988)" class="st4"
+                     cx="173.6" cy="130.7" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -41.6769 148.786)" class="st4"
+                     cx="171.3" cy="128.2" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -44.252 148.997)" class="st4"
+                     cx="170.3" cy="131.6" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -45.3496 151.199)" class="st4"
+                     cx="172.6" cy="134.2" rx="0.4" ry="0.4"/>
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -40.5793 146.584)" class="st4"
+                     cx="169" cy="125.7" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -42.0568 144.5931)" class="st4"
+                     cx="165.7" cy="126.6" rx="0.6" ry="0.6"/>
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -43.1544 146.795)" class="st4"
+                     cx="168" cy="129.1" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -48.8106 153.4773)" class="st4"
+                     cx="173.8" cy="139.8" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -47.713 151.2754)" class="st4"
+                     cx="171.5" cy="137.2" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -50.2881 151.4864)" class="st4"
+                     cx="170.5" cy="140.7" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -51.3857 153.6883)" class="st4"
+                     cx="172.7" cy="143.2" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -46.6154 149.0734)" class="st4"
+                     cx="169.2" cy="134.7" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -45.5178 146.8714)" class="st4"
+                     cx="166.9" cy="132.2" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -48.0929 147.0824)" class="st4"
+                     cx="165.9" cy="135.6" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -49.1905 149.2844)" class="st4"
+                     cx="168.2" cy="138.2" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -51.0193 146.8782)" class="st4"
+                     cx="164.1" cy="139.3" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -53.5944 147.0892)" class="st4"
+                     cx="163.1" cy="142.7" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -53.2145 151.2822)" class="st4"
+                     cx="168.7" cy="144.4" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -52.1169 149.0802)" class="st4"
+                     cx="166.4" cy="141.8" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -54.692 149.2912)" class="st4"
+                     cx="165.4" cy="145.3" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -55.7896 151.4931)" class="st4"
+                     cx="167.7" cy="147.8" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -57.6184 149.087)" class="st4"
+                     cx="163.7" cy="148.9" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -60.1935 149.298)" class="st4"
+                     cx="162.7" cy="152.4" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -44.4202 144.6695)" class="st4"
+                     cx="164.6" cy="129.7" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.7392 -0.6735 0.6735 0.7392 -46.9953 144.8805)" class="st4"
+                     cx="163.6" cy="133.1" rx="0.4" ry="0.4"/>
+        </g>
+        <g>
+            <defs>
+                <path id="SVGID_3_"
+                      d="M301.8,153.1c0,0-39.4,44.7-84.9,44.7c-17.3,0,30.5-36.4,30.5-36.4S262.3,158.1,301.8,153.1z"/>
+            </defs>
+            <clipPath id="SVGID_4_">
+                <use xlink:href="#SVGID_3_" style="overflow:visible;"/>
+            </clipPath>
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -36.533 85.531)" class="st5"
+                     cx="290.9" cy="174.8" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -35.6345 85.138)" class="st5"
+                     cx="289.9" cy="171.4" rx="0.6" ry="0.6"/>
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -34.7792 84.7639)" class="st5"
+                     cx="289" cy="168.1" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -35.5803 84.1989)" class="st5"
+                     cx="286.6" cy="170.7" rx="0.6" ry="0.6"/>
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -36.4356 84.573)" class="st5"
+                     cx="287.5" cy="174" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -33.8698 83.4506)" class="st5"
+                     cx="284.7" cy="164.2" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -34.7251 83.8248)" class="st5"
+                     cx="285.6" cy="167.4" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -37.222 83.9557)" class="st5"
+                     cx="284.9" cy="176.5" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -37.9703 82.2452)" class="st5"
+                     cx="278.3" cy="178.4" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -39.5738 80.9087)" class="st5"
+                     cx="272.7" cy="183.5" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -38.7185 80.5346)" class="st5"
+                     cx="271.8" cy="180.2" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -39.5196 79.9696)" class="st5"
+                     cx="269.3" cy="182.8" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -40.2522 79.3577)" class="st5"
+                     cx="266.7" cy="185.2" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -39.3969 78.9836)" class="st5"
+                     cx="265.8" cy="181.9" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -40.198 78.4186)" class="st5"
+                     cx="263.4" cy="184.5" rx="0.6" ry="0.6"/>
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -41.0004 77.6472)" class="st5"
+                     cx="260.2" cy="187" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -40.1452 77.273)" class="st5"
+                     cx="259.3" cy="183.8" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -40.9463 76.708)" class="st5"
+                     cx="256.8" cy="186.4" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -41.7487 75.9366)" class="st5"
+                     cx="253.6" cy="188.9" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -40.8934 75.5625)" class="st5"
+                     cx="252.7" cy="185.6" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -41.6945 74.9975)" class="st5"
+                     cx="250.3" cy="188.2" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -42.4012 74.4447)" class="st5"
+                     cx="247.9" cy="190.5" rx="0.6" ry="0.6"/>
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -41.546 74.0706)" class="st5"
+                     cx="247" cy="187.2" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -42.3471 73.5056)" class="st5"
+                     cx="244.5" cy="189.8" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -43.1495 72.7342)" class="st5"
+                     cx="241.3" cy="192.3" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -42.2942 72.3601)" class="st5"
+                     cx="240.4" cy="189.1" rx="0.4" ry="0.4"/>
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -43.0953 71.795)" class="st5"
+                     cx="238" cy="191.7" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -43.8977 71.0236)" class="st5"
+                     cx="234.8" cy="194.2" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -43.0424 70.6495)" class="st5"
+                     cx="233.9" cy="190.9" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -43.8435 70.0845)" class="st5"
+                     cx="231.4" cy="193.5" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -44.5761 69.4726)" class="st5"
+                     cx="228.8" cy="195.9" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -43.7209 69.0985)" class="st5"
+                     cx="227.9" cy="192.6" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -44.522 68.5335)" class="st5"
+                     cx="225.5" cy="195.2" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -45.3244 67.7621)" class="st5"
+                     cx="222.3" cy="197.7" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -44.4691 67.388)" class="st5"
+                     cx="221.4" cy="194.4" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -36.3236 83.5627)" class="st5"
+                     cx="283.9" cy="173.1" rx="0.6" ry="0.6"/>
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -35.4683 83.1886)" class="st5"
+                     cx="283" cy="169.8" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -36.2694 82.6236)" class="st5"
+                     cx="280.5" cy="172.4" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -37.1247 82.9977)" class="st5"
+                     cx="281.5" cy="175.7" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -34.613 82.8145)" class="st5"
+                     cx="282.1" cy="166.5" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -34.5588 81.8754)" class="st5"
+                     cx="278.7" cy="165.9" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -35.4141 82.2495)" class="st5"
+                     cx="279.6" cy="169.1" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -35.3612 81.1039)" class="st5"
+                     cx="275.5" cy="168.4" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -34.506 80.7298)" class="st5"
+                     cx="274.6" cy="165.1" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -35.3071 80.1648)" class="st5"
+                     cx="272.1" cy="167.7" rx="0.6" ry="0.6"/>
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -36.1623 80.5389)" class="st5"
+                     cx="273.1" cy="171" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -37.0718 81.8522)" class="st5"
+                     cx="277.3" cy="174.9" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -36.2165 81.4781)" class="st5"
+                     cx="276.4" cy="171.7" rx="0.4" ry="0.4"/>
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -37.0176 80.913)" class="st5"
+                     cx="274" cy="174.3" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -37.8729 81.2871)" class="st5"
+                     cx="274.9" cy="177.5" rx="0.4" ry="0.4"/>
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -37.82 80.1416)" class="st5"
+                     cx="270.8" cy="176.8" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -36.9647 79.7675)" class="st5"
+                     cx="269.9" cy="173.5" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -37.7658 79.2025)" class="st5"
+                     cx="267.4" cy="176.1" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -38.6211 79.5766)" class="st5"
+                     cx="268.3" cy="179.4" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -36.1095 79.3934)" class="st5"
+                     cx="268.9" cy="170.2" rx="0.6" ry="0.6"/>
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -35.2542 79.0193)" class="st5"
+                     cx="268" cy="166.9" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -36.0553 78.4542)" class="st5"
+                     cx="265.6" cy="169.6" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -36.9106 78.8284)" class="st5"
+                     cx="266.5" cy="172.8" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -34.3989 78.6452)" class="st5"
+                     cx="267.1" cy="163.7" rx="0.6" ry="0.6"/>
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -34.3447 77.706)" class="st5"
+                     cx="263.7" cy="163" rx="0.6" ry="0.6"/>
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -35.2 78.0801)" class="st5"
+                     cx="264.6" cy="166.3" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -34.4518 79.7907)" class="st5"
+                     cx="271.2" cy="164.4" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -33.7036 81.5012)" class="st5"
+                     cx="277.8" cy="162.6" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -38.4985 78.5906)" class="st5"
+                     cx="264.8" cy="178.5" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -37.6432 78.2165)" class="st5"
+                     cx="263.9" cy="175.2" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -38.4443 77.6515)" class="st5"
+                     cx="261.5" cy="177.8" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -39.2996 78.0256)" class="st5"
+                     cx="262.4" cy="181.1" rx="0.4" ry="0.4"/>
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -36.7879 77.8424)" class="st5"
+                     cx="263" cy="171.9" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -35.9326 77.4683)" class="st5"
+                     cx="262.1" cy="168.6" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -36.7337 76.9032)" class="st5"
+                     cx="259.6" cy="171.2" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -37.589 77.2773)" class="st5"
+                     cx="260.5" cy="174.5" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -37.5361 76.1318)" class="st5"
+                     cx="256.4" cy="173.8" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -36.6809 75.7577)" class="st5"
+                     cx="255.5" cy="170.5" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -37.482 75.1927)" class="st5"
+                     cx="253.1" cy="173.1" rx="0.6" ry="0.6"/>
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -38.3372 75.5668)" class="st5"
+                     cx="254" cy="176.4" rx="0.4" ry="0.4"/>
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -39.2467 76.88)" class="st5"
+                     cx="258.3" cy="180.3" rx="0.6" ry="0.6"/>
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -38.3914 76.5059)" class="st5"
+                     cx="257.4" cy="177" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -39.1925 75.9409)" class="st5"
+                     cx="254.9" cy="179.6" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -40.0478 76.315)" class="st5"
+                     cx="255.8" cy="182.9" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -39.9949 75.1695)" class="st5"
+                     cx="251.7" cy="182.2" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -39.1396 74.7954)" class="st5"
+                     cx="250.8" cy="178.9" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -39.9407 74.2304)" class="st5"
+                     cx="248.4" cy="181.5" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -40.796 74.6045)" class="st5"
+                     cx="249.3" cy="184.8" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -38.2844 74.4213)" class="st5"
+                     cx="249.9" cy="175.6" rx="0.6" ry="0.6"/>
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -37.4291 74.0472)" class="st5"
+                     cx="249" cy="172.3" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -38.2302 73.4821)" class="st5"
+                     cx="246.5" cy="174.9" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -39.0855 73.8562)" class="st5"
+                     cx="247.4" cy="178.2" rx="0.4" ry="0.4"/>
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -36.5738 73.673)" class="st5"
+                     cx="248" cy="169" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -36.5196 72.7339)" class="st5"
+                     cx="244.7" cy="168.4" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -37.3749 73.108)" class="st5"
+                     cx="245.6" cy="171.7" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -35.8256 75.3836)" class="st5"
+                     cx="254.6" cy="167.2" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -35.7714 74.4445)" class="st5"
+                     cx="251.2" cy="166.5" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -36.6267 74.8186)" class="st5"
+                     cx="252.1" cy="169.8" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -35.0774 77.0941)" class="st5"
+                     cx="261.1" cy="165.3" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -35.0232 76.155)" class="st5"
+                     cx="257.8" cy="164.7" rx="0.6" ry="0.6"/>
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -35.8785 76.5291)" class="st5"
+                     cx="258.7" cy="168" rx="0.4" ry="0.4"/>
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -40.6475 73.6776)" class="st5"
+                     cx="246" cy="183.8" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -39.7922 73.3035)" class="st5"
+                     cx="245.1" cy="180.5" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -40.5933 72.7385)" class="st5"
+                     cx="242.6" cy="183.1" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -41.4486 73.1126)" class="st5"
+                     cx="243.6" cy="186.4" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -38.9369 72.9294)" class="st5"
+                     cx="244.2" cy="177.2" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -38.0817 72.5553)" class="st5"
+                     cx="243.2" cy="173.9" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -38.8828 71.9902)" class="st5"
+                     cx="240.8" cy="176.5" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -39.738 72.3644)" class="st5"
+                     cx="241.7" cy="179.8" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -39.6852 71.2188)" class="st5"
+                     cx="237.6" cy="179.1" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -38.8299 70.8447)" class="st5"
+                     cx="236.7" cy="175.8" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -39.631 70.2797)" class="st5"
+                     cx="234.2" cy="178.4" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -40.4863 70.6538)" class="st5"
+                     cx="235.2" cy="181.7" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -41.3957 71.9671)" class="st5"
+                     cx="239.5" cy="185.6" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -40.5404 71.593)" class="st5"
+                     cx="238.5" cy="182.3" rx="0.4" ry="0.4"/>
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -41.3415 71.0279)" class="st5"
+                     cx="236.1" cy="185" rx="0.6" ry="0.6"/>
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -42.1968 71.402)" class="st5"
+                     cx="237" cy="188.2" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -42.1439 70.2565)" class="st5"
+                     cx="232.9" cy="187.5" rx="0.6" ry="0.6"/>
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -41.2887 69.8824)" class="st5"
+                     cx="232" cy="184.2" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -42.0898 69.3174)" class="st5"
+                     cx="229.5" cy="186.8" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -42.945 69.6915)" class="st5"
+                     cx="230.5" cy="190.1" rx="0.4" ry="0.4"/>
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -40.4334 69.5083)" class="st5"
+                     cx="231" cy="180.9" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -39.5781 69.1342)" class="st5"
+                     cx="230.1" cy="177.6" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -40.3792 68.5692)" class="st5"
+                     cx="227.7" cy="180.2" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -41.2345 68.9433)" class="st5"
+                     cx="228.6" cy="183.5" rx="0.4" ry="0.4"/>
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -39.5239 68.195)" class="st5"
+                     cx="226.8" cy="177" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -37.9746 70.4706)" class="st5"
+                     cx="235.8" cy="172.5" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -38.7757 69.9056)" class="st5"
+                     cx="233.3" cy="175.1" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -37.2264 72.1812)" class="st5"
+                     cx="242.3" cy="170.7" rx="0.6" ry="0.6"/>
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -37.1722 71.242)" class="st5"
+                     cx="238.9" cy="170" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -38.0275 71.6161)" class="st5"
+                     cx="239.9" cy="173.3" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -42.8224 68.7055)" class="st5"
+                     cx="226.9" cy="189.1" rx="0.6" ry="0.6"/>
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -41.9671 68.3314)" class="st5"
+                     cx="226" cy="185.9" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -42.7682 67.7663)" class="st5"
+                     cx="223.6" cy="188.5" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -43.6235 68.1405)" class="st5"
+                     cx="224.5" cy="191.8" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -41.1118 67.9573)" class="st5"
+                     cx="225.1" cy="182.6" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -41.9129 67.3922)" class="st5"
+                     cx="222.7" cy="185.2" rx="0.4" ry="0.4"/>
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -43.5706 66.9949)" class="st5"
+                     cx="220.4" cy="191" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.9625 -0.2714 0.2714 0.9625 -42.7153 66.6208)" class="st5"
+                     cx="219.5" cy="187.7" rx="0.4" ry="0.4"/>
+        </g>
+        <g>
+            <defs>
+                <path id="SVGID_5_"
+                      d="M169.8,74.4c0,0-1.9,3-29.1-9.2c-15.8-7.1,20-18.3,20-18.3S158.1,43.1,169.8,74.4z"/>
+            </defs>
+            <clipPath id="SVGID_6_">
+                <use xlink:href="#SVGID_5_" style="overflow:visible;"/>
+            </clipPath>
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 5.2141 195.1206)" class="st6"
+                     cx="189.6" cy="92.6" rx="0.4" ry="0.4"/>
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 8.4972 195.5443)" class="st6"
+                     cx="191.7" cy="89.6" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 11.6226 195.9475)" class="st6"
+                     cx="193.6" cy="86.8" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 10.2857 192.9203)" class="st6"
+                     cx="190.1" cy="86.6" rx="0.6" ry="0.6"/>
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 7.1604 192.5171)" class="st6"
+                     cx="188.1" cy="89.4" rx="0.4" ry="0.4"/>
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 16.5363 193.7269)" class="st6"
+                     cx="194" cy="81" rx="0.6" ry="0.6"/>
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 13.411 193.3236)" class="st6"
+                     cx="192" cy="83.8" rx="0.4" ry="0.4"/>
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 5.9568 189.3643)" class="st6"
+                     cx="184.5" cy="89" rx="0.4" ry="0.4"/>
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 6.7633 183.1137)" class="st6"
+                     cx="178.9" cy="85.1" rx="0.4" ry="0.4"/>
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 4.4445 176.4598)" class="st6"
+                     cx="171.4" cy="84" rx="0.6" ry="0.6"/>
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 7.5698 176.8631)" class="st6"
+                     cx="173.3" cy="81.2" rx="0.4" ry="0.4"/>
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 6.233 173.8359)" class="st6"
+                     cx="169.7" cy="80.9" rx="0.6" ry="0.6"/>
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 5.1758 170.7921)" class="st6"
+                     cx="166.3" cy="80.4" rx="0.6" ry="0.6"/>
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 8.3011 171.1954)" class="st6"
+                     cx="168.2" cy="77.6" rx="0.4" ry="0.4"/>
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 6.9643 168.1682)" class="st6"
+                     cx="164.7" cy="77.4" rx="0.6" ry="0.6"/>
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 5.9823 164.5415)" class="st6"
+                     cx="160.7" cy="76.5" rx="0.6" ry="0.6"/>
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 9.1076 164.9448)" class="st6"
+                     cx="162.6" cy="73.7" rx="0.4" ry="0.4"/>
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 7.7708 161.9176)" class="st6"
+                     cx="159.1" cy="73.5" rx="0.6" ry="0.6"/>
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 6.7888 158.2909)" class="st6"
+                     cx="155.1" cy="72.6" rx="0.6" ry="0.6"/>
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 9.9141 158.6942)" class="st6"
+                     cx="157.1" cy="69.8" rx="0.4" ry="0.4"/>
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 8.5773 155.667)" class="st6"
+                     cx="153.5" cy="69.6" rx="0.6" ry="0.6"/>
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 7.4922 152.8394)" class="st6"
+                     cx="150.2" cy="69.2" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 10.6175 153.2426)" class="st6"
+                     cx="152.2" cy="66.4" rx="0.4" ry="0.4"/>
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 9.2807 150.2155)" class="st6"
+                     cx="148.6" cy="66.2" rx="0.6" ry="0.6"/>
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 8.2987 146.5888)" class="st6"
+                     cx="144.7" cy="65.3" rx="0.6" ry="0.6"/>
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 11.4241 146.992)" class="st6"
+                     cx="146.6" cy="62.5" rx="0.4" ry="0.4"/>
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 10.0872 143.9649)" class="st6"
+                     cx="143" cy="62.3" rx="0.6" ry="0.6"/>
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 9.1053 140.3382)" class="st6"
+                     cx="139.1" cy="61.4" rx="0.6" ry="0.6"/>
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 12.2306 140.7414)" class="st6"
+                     cx="141" cy="58.6" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 10.8937 137.7142)" class="st6"
+                     cx="137.4" cy="58.4" rx="0.6" ry="0.6"/>
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 9.8365 134.6705)" class="st6"
+                     cx="134" cy="57.9" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 12.9619 135.0737)" class="st6"
+                     cx="135.9" cy="55.1" rx="0.4" ry="0.4"/>
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 11.625 132.0466)" class="st6"
+                     cx="132.4" cy="54.9" rx="0.6" ry="0.6"/>
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 10.6431 128.4199)" class="st6"
+                     cx="128.4" cy="54" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 13.7684 128.8231)" class="st6"
+                     cx="130.4" cy="51.2" rx="0.4" ry="0.4"/>
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 9.24 189.7879)" class="st6"
+                     cx="186.5" cy="86" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 12.3653 190.1911)" class="st6"
+                     cx="188.5" cy="83.2" rx="0.4" ry="0.4"/>
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 11.0285 187.164)" class="st6"
+                     cx="184.9" cy="83" rx="0.6" ry="0.6"/>
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 7.9032 186.7607)" class="st6"
+                     cx="183" cy="85.8" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 15.4906 190.5944)" class="st6"
+                     cx="190.4" cy="80.4" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 17.2791 187.9705)" class="st6"
+                     cx="188.8" cy="77.4" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 14.1538 187.5672)" class="st6"
+                     cx="186.9" cy="80.2" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 16.2971 184.3438)" class="st6"
+                     cx="184.8" cy="76.6" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 19.4224 184.7471)" class="st6"
+                     cx="186.8" cy="73.8" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 18.0856 181.7199)" class="st6"
+                     cx="183.2" cy="73.5" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 14.9603 181.3166)" class="st6"
+                     cx="181.3" cy="76.3" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 10.0465 183.5373)" class="st6"
+                     cx="180.9" cy="82.1" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 13.1718 183.9406)" class="st6"
+                     cx="182.9" cy="79.3" rx="0.4" ry="0.4"/>
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 11.835 180.9134)" class="st6"
+                     cx="179.3" cy="79.1" rx="0.6" ry="0.6"/>
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 8.7097 180.5101)" class="st6"
+                     cx="177.4" cy="81.9" rx="0.4" ry="0.4"/>
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 10.853 177.2867)" class="st6"
+                     cx="175.4" cy="78.2" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 13.9783 177.6899)" class="st6"
+                     cx="177.3" cy="75.4" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 12.6415 174.6628)" class="st6"
+                     cx="173.7" cy="75.2" rx="0.6" ry="0.6"/>
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 9.5162 174.2595)" class="st6"
+                     cx="171.8" cy="78" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 17.1036 178.0932)" class="st6"
+                     cx="179.3" cy="72.7" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 20.2289 178.4964)" class="st6"
+                     cx="181.2" cy="69.9" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 18.8921 175.4693)" class="st6"
+                     cx="177.6" cy="69.6" rx="0.6" ry="0.6"/>
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 15.7668 175.066)" class="st6"
+                     cx="175.7" cy="72.4" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 23.3542 178.8997)" class="st6"
+                     cx="183.1" cy="67.1" rx="0.6" ry="0.6"/>
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 25.1427 176.2758)" class="st6"
+                     cx="181.5" cy="64" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 22.0174 175.8725)" class="st6"
+                     cx="179.6" cy="66.8" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 21.2109 182.1232)" class="st6"
+                     cx="185.2" cy="70.7" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 20.4044 188.3738)" class="st6"
+                     cx="190.8" cy="74.6" rx="0.4" ry="0.4"/>
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 11.5843 171.619)" class="st6"
+                     cx="170.3" cy="74.7" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 14.7096 172.0223)" class="st6"
+                     cx="172.2" cy="71.9" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 13.3728 168.9951)" class="st6"
+                     cx="168.7" cy="71.7" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 10.2475 168.5918)" class="st6"
+                     cx="166.7" cy="74.5" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 17.8349 172.4255)" class="st6"
+                     cx="174.2" cy="69.1" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 20.9602 172.8288)" class="st6"
+                     cx="176.1" cy="66.3" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 19.6234 169.8016)" class="st6"
+                     cx="172.6" cy="66.1" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 16.4981 169.3984)" class="st6"
+                     cx="170.6" cy="68.9" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 18.6414 166.1749)" class="st6"
+                     cx="168.6" cy="65.2" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 21.7667 166.5782)" class="st6"
+                     cx="170.5" cy="62.4" rx="0.4" ry="0.4"/>
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 20.4299 163.551)" class="st6"
+                     cx="167" cy="62.2" rx="0.6" ry="0.6"/>
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 17.3046 163.1478)" class="st6"
+                     cx="165" cy="65" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 12.3908 165.3684)" class="st6"
+                     cx="164.7" cy="70.8" rx="0.6" ry="0.6"/>
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 15.5161 165.7717)" class="st6"
+                     cx="166.6" cy="68" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 14.1793 162.7445)" class="st6"
+                     cx="163.1" cy="67.8" rx="0.6" ry="0.6"/>
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 11.054 162.3412)" class="st6"
+                     cx="161.1" cy="70.6" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 13.1973 159.1178)" class="st6"
+                     cx="159.1" cy="66.9" rx="0.6" ry="0.6"/>
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 16.3226 159.521)" class="st6"
+                     cx="161.1" cy="64.1" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 14.9858 156.4939)" class="st6"
+                     cx="157.5" cy="63.9" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 11.8605 156.0906)" class="st6"
+                     cx="155.5" cy="66.7" rx="0.4" ry="0.4"/>
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 19.4479 159.9243)" class="st6"
+                     cx="163" cy="61.3" rx="0.6" ry="0.6"/>
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 22.5732 160.3275)" class="st6"
+                     cx="165" cy="58.5" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 21.2364 157.3004)" class="st6"
+                     cx="161.4" cy="58.3" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 18.1111 156.8971)" class="st6"
+                     cx="159.4" cy="61.1" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 25.6985 160.7308)" class="st6"
+                     cx="166.9" cy="55.7" rx="0.6" ry="0.6"/>
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 27.487 158.1069)" class="st6"
+                     cx="165.3" cy="52.7" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 24.3617 157.7036)" class="st6"
+                     cx="163.3" cy="55.5" rx="0.4" ry="0.4"/>
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 24.892 166.9814)" class="st6"
+                     cx="172.5" cy="59.6" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 26.6805 164.3575)" class="st6"
+                     cx="170.9" cy="56.6" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 23.5552 163.9543)" class="st6"
+                     cx="168.9" cy="59.4" rx="0.4" ry="0.4"/>
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 24.0855 173.232)" class="st6"
+                     cx="178.1" cy="63.5" rx="0.6" ry="0.6"/>
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 25.874 170.6081)" class="st6"
+                     cx="176.5" cy="60.5" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 22.7487 170.2049)" class="st6"
+                     cx="174.5" cy="63.3" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 13.9007 153.6662)" class="st6"
+                     cx="154.2" cy="63.5" rx="0.6" ry="0.6"/>
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 17.026 154.0695)" class="st6"
+                     cx="156.2" cy="60.7" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 15.6892 151.0423)" class="st6"
+                     cx="152.6" cy="60.5" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 12.5639 150.6391)" class="st6"
+                     cx="150.7" cy="63.3" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 20.1513 154.4728)" class="st6"
+                     cx="158.1" cy="57.9" rx="0.6" ry="0.6"/>
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 23.2766 154.876)" class="st6"
+                     cx="160.1" cy="55.1" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 21.9398 151.8488)" class="st6"
+                     cx="156.5" cy="54.9" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 18.8145 151.4456)" class="st6"
+                     cx="154.6" cy="57.7" rx="0.4" ry="0.4"/>
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 20.9578 148.2222)" class="st6"
+                     cx="152.5" cy="54" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 24.0831 148.6254)" class="st6"
+                     cx="154.5" cy="51.2" rx="0.4" ry="0.4"/>
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 22.7463 145.5982)" class="st6"
+                     cx="150.9" cy="51" rx="0.6" ry="0.6"/>
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 19.621 145.195)" class="st6"
+                     cx="149" cy="53.8" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 14.7072 147.4156)" class="st6"
+                     cx="148.6" cy="59.6" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 17.8325 147.8189)" class="st6"
+                     cx="150.6" cy="56.8" rx="0.4" ry="0.4"/>
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 16.4957 144.7917)" class="st6"
+                     cx="147" cy="56.6" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 13.3704 144.3885)" class="st6"
+                     cx="145.1" cy="59.4" rx="0.4" ry="0.4"/>
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 15.5137 141.165)" class="st6"
+                     cx="143.1" cy="55.7" rx="0.6" ry="0.6"/>
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 18.639 141.5683)" class="st6"
+                     cx="145" cy="52.9" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 17.3022 138.5411)" class="st6"
+                     cx="141.4" cy="52.7" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 14.1769 138.1379)" class="st6"
+                     cx="139.5" cy="55.5" rx="0.4" ry="0.4"/>
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 21.7643 141.9715)" class="st6"
+                     cx="147" cy="50.1" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 24.8896 142.3748)" class="st6"
+                     cx="148.9" cy="47.3" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 23.5528 139.3476)" class="st6"
+                     cx="145.3" cy="47.1" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 20.4275 138.9444)" class="st6"
+                     cx="143.4" cy="49.9" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 26.6781 139.7509)" class="st6"
+                     cx="147.3" cy="44.3" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 27.2084 149.0287)" class="st6"
+                     cx="156.4" cy="48.4" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 25.8716 146.0015)" class="st6"
+                     cx="152.9" cy="48.2" rx="0.4" ry="0.4"/>
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 26.4019 155.2793)" class="st6"
+                     cx="162" cy="52.3" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 28.1904 152.6554)" class="st6"
+                     cx="160.4" cy="49.3" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 25.0651 152.2521)" class="st6"
+                     cx="158.5" cy="52.1" rx="0.4" ry="0.4"/>
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 16.245 135.4973)" class="st6"
+                     cx="138" cy="52.2" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 19.3703 135.9006)" class="st6"
+                     cx="139.9" cy="49.4" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 18.0335 132.8734)" class="st6"
+                     cx="136.4" cy="49.2" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 14.9082 132.4702)" class="st6"
+                     cx="134.4" cy="51.9" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 22.4956 136.3039)" class="st6"
+                     cx="141.9" cy="46.6" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 21.1588 133.2767)" class="st6"
+                     cx="138.3" cy="46.4" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 17.0515 129.2467)" class="st6"
+                     cx="132.4" cy="48.3" rx="0.6" ry="0.6"/>
+            <ellipse transform="matrix(0.5722 -0.8201 0.8201 0.5722 20.1768 129.65)" class="st6"
+                     cx="134.4" cy="45.5" rx="0.4" ry="0.4"/>
+        </g>
+        <g>
+            <g>
+                <path class="hand4" d="M199.1,189.1c16.6-7.4,26.2-23.2,35-38.4c0.8-1.4-1.4-2.7-2.2-1.3c-8.6,14.8-17.8,30.2-34.1,37.5
+C196.4,187.6,197.7,189.8,199.1,189.1L199.1,189.1z"/>
+            </g>
+        </g>
+        <g>
+            <g>
+                <path class="hand4" d="M120.6,83.3c-4.7,2.5-9.6,4.3-14.8,5.2c-5.5,1-5.2,0.1-8.2,4.5c-5.3,7.8-12,14.7-19.7,20.3
+c-3.3,2.4-7,4.1-10.4,6.3c-2.4,1.6-2.9,3.5-3.8,6.1c-3.3,9-10.8,15.7-20,18.5c-1.5,0.5-0.9,2.9,0.7,2.4
+c6.9-2.1,12.9-6.1,17.2-11.9c2.6-3.5,3.6-7.8,6-11.3c2.6-3.7,8.4-5.7,12.1-8.4c6.7-4.9,12.7-10.8,17.7-17.5
+c1.3-1.7,2.5-4.5,4.3-5.6c1.4-0.9,3.9-0.8,5.5-1.1c5.1-1,9.9-2.9,14.6-5.3C123.3,84.8,122,82.6,120.6,83.3L120.6,83.3z"/>
+            </g>
+        </g>
+        <path class="st7" d="M44.1,148.5"/>
+        <path class="st7"
+              d="M20.4,164.8c0,0,7.3-15.6,29.9-16.2c0,0-5-2.1-15.4-1.6S20.4,164.8,20.4,164.8z"/>
+        <rect x="0.4" y="124.6" class="st8" width="55.5" height="57"/>
+        <g>
+            <defs>
+                <path id="SVGID_7_"
+                      d="M72.5,199.9c11.9,3.6,32.1-23,16.3-36.9C73,149.1,60.6,196.3,72.5,199.9z"/>
+            </defs>
+            <clipPath id="SVGID_8_">
+                <use xlink:href="#SVGID_7_" style="overflow:visible;"/>
+            </clipPath>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -137.006 222.3947)" class="st9"
+                     cx="80.8" cy="203.2" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -138.4636 218.4001)" class="st9"
+                     cx="77.4" cy="202.1" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -139.8511 214.5975)" class="st9"
+                     cx="74.1" cy="201.2" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -135.6803 215.4182)" class="st9"
+                     cx="76.8" cy="198.8" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -134.2928 219.2208)" class="st9"
+                     cx="80" cy="199.8" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -138.4553 207.813)" class="st9"
+                     cx="70.3" cy="196.8" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -137.0678 211.6156)" class="st9"
+                     cx="73.5" cy="197.8" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -130.0022 219.8392)" class="st9"
+                     cx="82.6" cy="197.2" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -122.397 217.0642)" class="st9"
+                     cx="84.5" cy="190.7" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -113.4043 218.0919)" class="st9"
+                     cx="89.7" cy="185.2" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -114.7918 214.2892)" class="st9"
+                     cx="86.4" cy="184.2" rx="0.4" ry="0.4"/>
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -110.621 215.11)" class="st9"
+                     cx="89.1" cy="181.8" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -106.5083 215.5757)" class="st9"
+                     cx="91.4" cy="179.3" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -107.8958 211.7731)" class="st9"
+                     cx="88.2" cy="178.3" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -103.7251 212.5938)" class="st9"
+                     cx="90.8" cy="175.9" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -98.9031 212.8007)" class="st9"
+                     cx="93.4" cy="172.8" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -100.2906 208.9981)" class="st9"
+                     cx="90.1" cy="171.8" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -96.1198 209.8188)" class="st9"
+                     cx="92.8" cy="169.4" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -91.2979 210.0257)" class="st9"
+                     cx="95.3" cy="166.3" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -92.6854 206.2231)" class="st9"
+                     cx="92.1" cy="165.3" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -88.5146 207.0439)" class="st9"
+                     cx="94.7" cy="162.9" rx="0.6" ry="0.6"/>
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -84.6649 207.6055)" class="st9"
+                     cx="97" cy="160.6" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -86.0524 203.8029)" class="st9"
+                     cx="93.8" cy="159.7" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -81.8817 204.6237)" class="st9"
+                     cx="96.4" cy="157.3" rx="0.6" ry="0.6"/>
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -77.0597 204.8305)" class="st9"
+                     cx="99" cy="154.1" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -78.4472 201.0279)" class="st9"
+                     cx="95.7" cy="153.2" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -74.2765 201.8487)" class="st9"
+                     cx="98.4" cy="150.8" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -69.4545 202.0556)" class="st9"
+                     cx="100.9" cy="147.6" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -70.842 198.2529)" class="st9"
+                     cx="97.7" cy="146.7" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -66.6712 199.0737)" class="st9"
+                     cx="100.3" cy="144.3" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -62.5586 199.5394)" class="st9"
+                     cx="102.7" cy="141.8" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -63.9461 195.7368)" class="st9"
+                     cx="99.4" cy="140.8" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -59.7753 196.5575)" class="st9"
+                     cx="102.1" cy="138.4" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -54.9534 196.7644)" class="st9"
+                     cx="104.6" cy="135.3" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -56.3409 192.9618)" class="st9"
+                     cx="101.4" cy="134.3" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -131.4598 215.8445)" class="st9"
+                     cx="79.2" cy="196.2" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -132.8472 212.0419)" class="st9"
+                     cx="75.9" cy="195.2" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -128.6765 212.8627)" class="st9"
+                     cx="78.5" cy="192.8" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -127.289 216.6653)" class="st9"
+                     cx="81.8" cy="193.8" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -134.2347 208.2393)" class="st9"
+                     cx="72.7" cy="194.2" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -131.4514 205.2575)" class="st9"
+                     cx="72.1" cy="190.9" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -130.064 209.0601)" class="st9"
+                     cx="75.3" cy="191.8" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -126.6295 205.4643)" class="st9"
+                     cx="74.6" cy="187.7" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -128.017 201.6617)" class="st9"
+                     cx="71.4" cy="186.8" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -123.8462 202.4825)" class="st9"
+                     cx="74" cy="184.4" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -122.4588 206.2851)" class="st9"
+                     cx="77.2" cy="185.3" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -123.8545 213.0695)" class="st9"
+                     cx="81.1" cy="189.7" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -125.242 209.2669)" class="st9"
+                     cx="77.8" cy="188.7" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -121.0713 210.0877)" class="st9"
+                     cx="80.5" cy="186.3" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -119.6838 213.8903)" class="st9"
+                     cx="83.7" cy="187.3" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -116.2493 210.2946)" class="st9"
+                     cx="83" cy="183.2" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -117.6368 206.492)" class="st9"
+                     cx="79.8" cy="182.2" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -113.4661 207.3127)" class="st9"
+                     cx="82.4" cy="179.8" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -112.0786 211.1153)" class="st9"
+                     cx="85.7" cy="180.8" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -119.0243 202.6894)" class="st9"
+                     cx="76.5" cy="181.2" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -120.4118 198.8867)" class="st9"
+                     cx="73.3" cy="180.3" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -116.241 199.7075)" class="st9"
+                     cx="75.9" cy="177.9" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -114.8535 203.5101)" class="st9"
+                     cx="79.2" cy="178.8" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -121.7993 195.0842)" class="st9"
+                     cx="70" cy="179.3" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -119.016 192.1023)" class="st9"
+                     cx="69.4" cy="175.9" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -117.6285 195.9049)" class="st9"
+                     cx="72.7" cy="176.9" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -125.2337 198.6799)" class="st9"
+                     cx="70.7" cy="183.4" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -132.8389 201.4548)" class="st9"
+                     cx="68.8" cy="189.9" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -109.3534 207.7784)" class="st9"
+                     cx="84.8" cy="177.3" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -110.7409 203.9758)" class="st9"
+                     cx="81.5" cy="176.3" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -106.5701 204.7965)" class="st9"
+                     cx="84.2" cy="173.9" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -105.1826 208.5991)" class="st9"
+                     cx="87.4" cy="174.9" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -112.1284 200.1732)" class="st9"
+                     cx="78.3" cy="175.4" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -113.5159 196.3706)" class="st9"
+                     cx="75.1" cy="174.4" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -109.3451 197.1913)" class="st9"
+                     cx="77.7" cy="172" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -107.9576 200.9939)" class="st9"
+                     cx="80.9" cy="173" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -104.5232 197.3982)" class="st9"
+                     cx="80.2" cy="168.9" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -105.9106 193.5956)" class="st9"
+                     cx="77" cy="167.9" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -101.7399 194.4164)" class="st9"
+                     cx="79.6" cy="165.5" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -100.3524 198.219)" class="st9"
+                     cx="82.9" cy="166.5" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -101.7482 205.0034)" class="st9"
+                     cx="86.7" cy="170.8" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -103.1357 201.2008)" class="st9"
+                     cx="83.5" cy="169.8" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -98.9649 202.0216)" class="st9"
+                     cx="86.1" cy="167.4" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -97.5774 205.8242)" class="st9"
+                     cx="89.4" cy="168.4" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -94.143 202.2284)" class="st9"
+                     cx="88.7" cy="164.3" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -95.5305 198.4258)" class="st9"
+                     cx="85.4" cy="163.3" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -91.3597 199.2466)" class="st9"
+                     cx="88.1" cy="160.9" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -89.9722 203.0492)" class="st9"
+                     cx="91.3" cy="161.9" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -96.9179 194.6232)" class="st9"
+                     cx="82.2" cy="162.4" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -98.3054 190.8206)" class="st9"
+                     cx="78.9" cy="161.4" rx="0.4" ry="0.4"/>
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -94.1347 191.6414)" class="st9"
+                     cx="81.6" cy="159" rx="0.6" ry="0.6"/>
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -92.7472 195.444)" class="st9"
+                     cx="84.8" cy="160" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -99.6929 187.018)" class="st9"
+                     cx="75.7" cy="160.4" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -96.9096 184.0362)" class="st9"
+                     cx="75.1" cy="157.1" rx="0.6" ry="0.6"/>
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -95.5222 187.8388)" class="st9"
+                     cx="78.3" cy="158" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -107.2981 189.793)" class="st9"
+                     cx="73.7" cy="166.9" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -104.5148 186.8111)" class="st9"
+                     cx="73.1" cy="163.6" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -103.1274 190.6138)" class="st9"
+                     cx="76.4" cy="164.5" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -114.9033 192.568)" class="st9"
+                     cx="71.8" cy="173.4" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -112.1201 189.5861)" class="st9"
+                     cx="71.2" cy="170.1" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -110.7326 193.3887)" class="st9"
+                     cx="74.4" cy="171" rx="0.4" ry="0.4"/>
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -87.51 199.8082)" class="st9"
+                     cx="90.4" cy="158.6" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -88.8975 196.0056)" class="st9"
+                     cx="87.1" cy="157.7" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -84.7267 196.8264)" class="st9"
+                     cx="89.8" cy="155.3" rx="0.6" ry="0.6"/>
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -83.3392 200.629)" class="st9"
+                     cx="93" cy="156.3" rx="0.4" ry="0.4"/>
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -90.285 192.203)" class="st9"
+                     cx="83.9" cy="156.7" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -91.6725 188.4004)" class="st9"
+                     cx="80.6" cy="155.7" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -87.5017 189.2212)" class="st9"
+                     cx="83.3" cy="153.3" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -86.1142 193.0238)" class="st9"
+                     cx="86.5" cy="154.3" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -82.6798 189.428)" class="st9"
+                     cx="85.8" cy="150.2" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -84.0673 185.6254)" class="st9"
+                     cx="82.6" cy="149.2" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -79.8965 186.4462)" class="st9"
+                     cx="85.2" cy="146.9" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -78.509 190.2488)" class="st9"
+                     cx="88.4" cy="147.8" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -79.9048 197.0332)" class="st9"
+                     cx="92.3" cy="152.2" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -81.2923 193.2306)" class="st9"
+                     cx="89.1" cy="151.2" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -77.1215 194.0514)" class="st9"
+                     cx="91.7" cy="148.8" rx="0.6" ry="0.6"/>
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -75.734 197.854)" class="st9"
+                     cx="94.9" cy="149.8" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -72.2996 194.2583)" class="st9"
+                     cx="94.2" cy="145.7" rx="0.6" ry="0.6"/>
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -73.6871 190.4557)" class="st9"
+                     cx="91" cy="144.7" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -69.5163 191.2764)" class="st9"
+                     cx="93.6" cy="142.3" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -68.1288 195.079)" class="st9"
+                     cx="96.9" cy="143.3" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -75.0746 186.6531)" class="st9"
+                     cx="87.8" cy="143.7" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -76.4621 182.8505)" class="st9"
+                     cx="84.5" cy="142.7" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -72.2913 183.6712)" class="st9"
+                     cx="87.1" cy="140.4" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -70.9038 187.4738)" class="st9"
+                     cx="90.4" cy="141.3" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -73.6788 179.8686)" class="st9"
+                     cx="83.9" cy="139.4" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -85.4548 181.8228)" class="st9"
+                     cx="79.3" cy="148.3" rx="0.6" ry="0.6"/>
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -81.284 182.6436)" class="st9"
+                     cx="82" cy="145.9" rx="0.4" ry="0.4"/>
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -93.06 184.5978)" class="st9"
+                     cx="77.4" cy="154.8" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -90.2767 181.616)" class="st9"
+                     cx="76.8" cy="151.4" rx="0.6" ry="0.6"/>
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -88.8892 185.4185)" class="st9"
+                     cx="80" cy="152.4" rx="0.4" ry="0.4"/>
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -65.4036 191.7421)" class="st9"
+                     cx="96" cy="139.8" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -66.7911 187.9395)" class="st9"
+                     cx="92.8" cy="138.8" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -62.6204 188.7602)" class="st9"
+                     cx="95.4" cy="136.4" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -61.2329 192.5629)" class="st9"
+                     cx="98.6" cy="137.4" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -68.1786 184.1369)" class="st9"
+                     cx="89.5" cy="137.8" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -64.0079 184.9576)" class="st9"
+                     cx="92.1" cy="135.4" rx="0.4" ry="0.4"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -57.7984 188.9671)" class="st9"
+                     cx="97.9" cy="133.3" rx="0.6" ry="0.6"/>
+
+            <ellipse transform="matrix(0.2863 -0.9581 0.9581 0.2863 -59.1859 185.1645)" class="st9"
+                     cx="94.7" cy="132.3" rx="0.4" ry="0.4"/>
+        </g>
+        <path class="st10" d="M288.9,156.2c0,0,28.2-39.2,60.4-45.6c0,0-2.2,24.4-4.9,31L288.9,156.2z"/>
+        <path class="st11"
+              d="M55.9,148.5c0,0-27-5.8-35.5,6.8c-8.5,12.6,0,26.3,0,26.3l10.4-0.2l25-29.3L55.9,148.5z"/>
+        <g>
+            <path class="hand2" d="M113.5,146.5c-12.6,1.5-23.8,3-25.3,4.8c-7.7-0.3-15.4-0.6-23.1-0.8c-5.6-0.2-11.2-0.3-16.8-0.3
+c-5.5,0-10.4,0.1-15.6,2.3c-7.2,3-14.2,9-14.4,17.4c-0.2,9.7,8.7,14.7,16.7,17.7c12.8,4.9,37.2,9.5,51.7,9.1
+c5.4-0.1,15.7-0.1,26.8-1.5V146.5z"/>
+            <path class="hand3" d="M21.8,179.6c0,0-3-3.6-3.2-7.4c-0.4-6,4.8-8,4.8-8s15.6-5.9,25.6-2.5c0,0,2.4,21.6-4.3,25.1
+C44.7,186.8,27.7,183.8,21.8,179.6z"/>
+            <g>
+                <g>
+                    <path class="hand4" d="M78.4,170.9c0.3,7.3-1.1,14.3-4.2,20.9c-0.7,1.5,1.5,2.7,2.2,1.3c3.2-7,4.8-14.4,4.5-22.2
+    C80.8,169.3,78.3,169.3,78.4,170.9L78.4,170.9z"/>
+                </g>
+            </g>
+            <g>
+                <g>
+                    <path class="hand4" d="M46.8,175.6c0.2,3.2-0.5,6.1-2.2,8.8c-0.9,1.4,1.3,2.6,2.2,1.3c1.9-3,2.8-6.5,2.6-10.1
+    C49.2,174,46.7,174,46.8,175.6L46.8,175.6z"/>
+                </g>
+            </g>
+            <path class="st7" d="M43.1,148.6"/>
+        </g>
+    </g>
+</svg>
